@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Breazu Laura's homepage
-description: This is my Github Pages Site!
+# Site settings
+title: Breazu Laura's Homepage
+description: This is my GitHub Pages site!
+author: Breazu Laura
+baseurl: "" # Leave this empty if deploying to the root of the domain
+url: "https://username.github.io" # Replace with your GitHub Pages URL
+
+# Theme settings
+theme: jekyll-theme-leap-day
+
+# Build settings
+markdown: kramdown
+
